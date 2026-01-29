@@ -1,0 +1,51 @@
+3 3
+
+1 3 4
+2 2 3
+1 2 4
+
+class{
+    front,
+    back,
+    left,
+    right,
+    up,
+    bottom
+}
+
+{1,0,1,0,1,1} {3,1,2,0,1,1} {4,1,1,4,1,1}
+{1,1,2,0,1,1} {0,0,0,0,1,1} {0,0,1,3,1,1}
+{0,1,1,0,1,1} {0,2,1,0,1,1} {1,4,2,4,1,1}
+
+{ 4}{ 8}{12}
+{ 6}{ 2}{ 6}
+{ 4}{ 5}{13}
+
+kondisi (current number > neighboor number){
+    current number - neighboor number 
+} else {
+    0 
+}
+
+kondisi (paling pojok?){
+    current number = current number 
+}
+
+10 1
+94
+91
+97
+97
+100
+90
+95
+95
+93
+91
+
+total = 2122
+
+1 10
+91 80 7 41 36 11 48 57 40 43
+
+total = 1276
