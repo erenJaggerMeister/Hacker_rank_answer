@@ -1,0 +1,15 @@
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\bin\Debug\net10.0\MethodC#.exe
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\bin\Debug\net10.0\MethodC#.deps.json
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\bin\Debug\net10.0\MethodC#.runtimeconfig.json
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\bin\Debug\net10.0\MethodC#.dll
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\bin\Debug\net10.0\MethodC#.pdb
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.AssemblyInfoInputs.cache
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.AssemblyInfo.cs
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.csproj.CoreCompileInputs.cache
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.sourcelink.json
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.dll
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\refint\MethodC#.dll
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.pdb
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\MethodC#.genruntimeconfig.cache
+D:\Hacker_rank\Hacker_rank_answer\learning_c#_syntax\MethodC#\obj\Debug\net10.0\ref\MethodC#.dll
