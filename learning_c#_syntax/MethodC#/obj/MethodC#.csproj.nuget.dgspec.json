@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "D:\\be_smart_global_indonesia\\project_14\\local-nuget-feed": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
